@@ -1,13 +1,10 @@
-<<<<<<< HEAD
-# React + Vite
+Poject: RESTful API Integration - Book Explorer
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Things Implemented:
+- Integrated RESTful APIs to fetch data dynamically.
+- Implemented smooth pagination to enhance user experience.
+- Utilized caching mechanisms to optimize data loading.
+- Showcased alert notifications to inform users about data fetching.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-=======
-# RESTful-API-Integration-Book-Explorer-
-Open Library API integration to fetch books of specific author dynamically.
->>>>>>> 292f48d3edd06fc8e104977cb8094e8fdeb7ebc3
+Highlights:
+The integration of RESTful APIs has significantly enhanced the performance and responsiveness of the application, ensuring a seamless experience for users.
